@@ -1,4 +1,3 @@
-# email-annotation-framework-llm
 # 🧠 Human Annotation Framework for Evaluating Professional Email Responses in LLM Systems
 
 ## 🎯 Objective
